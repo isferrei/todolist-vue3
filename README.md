@@ -1,4 +1,5 @@
-# todolist
+# Todo list
+This is a todo list project created using Vue.js 3
 
 ## Project setup
 ```
